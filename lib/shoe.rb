@@ -12,3 +12,5 @@ class Shoe
   end
 
 end
+
+my_Shoe = Shoe.new("NineWest")
