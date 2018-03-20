@@ -1,3 +1,3 @@
-class Book(title)
+class Book
 
 end
